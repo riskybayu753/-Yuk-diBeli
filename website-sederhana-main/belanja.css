@@ -1,0 +1,14 @@
+body{
+    margin: 0; font-family: sans-serif;
+}
+..gambar{
+    width: 80%;
+    display: grid-template-columns: 1fr 1fr 1fr; margin:auto;}
+}
+.gambar .foto img{
+    width: 300px;
+}
+.foto{
+    border: 1px solid black; margin: 10px;
+}
+
